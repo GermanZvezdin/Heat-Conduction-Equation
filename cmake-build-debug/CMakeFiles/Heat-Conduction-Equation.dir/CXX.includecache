@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/germanzvezdin/Desktop/Git/Heat-Conduction-Equation/heat.cpp
+z-arrays.hpp
+/Users/germanzvezdin/Desktop/Git/Heat-Conduction-Equation/z-arrays.hpp
+iostream
+-
+iomanip
+-
+
+/Users/germanzvezdin/Desktop/Git/Heat-Conduction-Equation/z-arrays.hpp
+vector
+-
+cmath
+-
+cstdlib
+-
+cstdio
+-
+
